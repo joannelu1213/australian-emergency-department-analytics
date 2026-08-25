@@ -460,10 +460,6 @@ cd australian-emergency-department-analytics
 
 ### 2. Set up the Python environment
 
-```bash
-python -m venv .venv
-source .venv/bin/activate   # macOS/Linux
-```
 Install the required packages
 
 ```bash
