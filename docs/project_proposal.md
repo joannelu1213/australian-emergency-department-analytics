@@ -37,7 +37,7 @@ The project will initially use:
 
 The final supporting datasets will be confirmed after assessing their definitions, geographic coverage and compatibility with the AIHW extract.
 
-## Analytical Questions (initial)
+## Analytical Questions 
 
 1. How have emergency department presentations changed over time nationally and across states and territories?
 2. How does demand vary across hospitals, reporting units and triage categories?
